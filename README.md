@@ -1,6 +1,6 @@
 Hellow! Welcome to my profile
 
-###These are my main informations:
+### These are my main informations:
 
 -  I’m Alex Harley
 -  I’m interested in: programation
